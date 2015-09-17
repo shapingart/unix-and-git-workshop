@@ -1,0 +1,1 @@
+So I’ve used SVN and was confused about the difference between Git and SVN but I think I’ve kind of cleared that up now.  SVN seems to be less popular but is kind of the same thing?  I’ve learned how important forking and branching is based on reading on the internet.  
